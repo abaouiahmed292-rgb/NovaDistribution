@@ -1,0 +1,5 @@
+Déposez ici :
+1) manuel-kitchart.pdf
+2) recettes-pizza.pdf
+
+Les boutons de la landing page Kitchart pointent automatiquement vers ces fichiers.
